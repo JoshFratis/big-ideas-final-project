@@ -1,4 +1,4 @@
-- Team Name:
+- Team Name: TEAM LICKETY SPLIT
 - Team members + emails:
   * Thomas Noto, TFN3@pitt.edu
   * Alli Batell, ALB594@pitt.edu
